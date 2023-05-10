@@ -15,7 +15,7 @@
 Du ska använda Morgan som är ett middleware för expressapplikationer. 
 
 1. Sätt upp Morgan på din nuvarande Node.js/Express/REST API app. [Dokumentation om middleware Morgan
-](https://expressjs.com/en/resources/middleware/morgan.html). Loggningen som spottas ut ska du skriva till fil! 
+](https://expressjs.com/en/resources/middleware/morgan.html). Loggningen som spottas ut ska du skriva till fil.
 
 2. Analysera loggfilen för att se om rätt statuskod skrivs ut till rätt tillfälle.
 
