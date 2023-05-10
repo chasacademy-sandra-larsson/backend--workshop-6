@@ -10,7 +10,7 @@
 * Testa på olika verktyg för debugging och loggning 
 
 
-# 👩🏽‍💻 Övning 1: Använd Morgon för loggning
+# 👩🏽‍💻 Övning 1: Använd Morgan för loggning
 
 Du ska använda Morgan som är ett middleware för expressapplikationer. 
 
