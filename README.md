@@ -61,7 +61,7 @@ Sätt upp Auto Attach i VS Code och prova att debugga i din applikation med att 
 
 # 👩🏽‍💻 Övning 4: Prova Express Application Generator
 
-Prova att sätt upp ett projekt med Express Application Generator. 
+Prova att sätt upp ett projekt med Express Application Generator. [https://expressjs.com/en/starter/generator.html]()
 
 ```npx express generator```
 
